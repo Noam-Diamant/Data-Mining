@@ -5,4 +5,3 @@ will you date me??
 
 how u doing?
 
-# Amir is MGP
