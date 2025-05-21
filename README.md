@@ -46,7 +46,7 @@ Random Forest performed best overall
 - pandas, numpy, matplotlib, seaborn
 - scikit-learn
 ## Files
--`project.ipynb`: Main analysis and modeling notebook
-`hotels_train.csv`, `hotels_test.csv`: Data files
-`DMREPORT.docx`, `Final project.docx`, `Transformations.docx`: Project reports
-`TA/TA1-TA7.ipynb`: Additional analysis notebooks
+- `project.ipynb`: Main analysis and modeling notebook
+-`hotels_train.csv`, `hotels_test.csv`: Data files
+- `DMREPORT.docx`, `Final project.docx`, `Transformations.docx`: Project reports
+- `TA/TA1-TA7.ipynb`: Additional analysis notebooks
