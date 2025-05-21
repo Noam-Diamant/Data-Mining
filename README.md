@@ -36,7 +36,7 @@ This project analyzes hotel reservation data to predict cancellations using vari
 - Decision Tree accuracy: ~85%
 - Random Forest accuracy: ~88%
 - Logistic Regression accuracy: ~80%
-Random Forest performed best overall
+- Random Forest performed best overall
 ## How to Run
 1. Install dependencies (see below)
 2. Run `project.ipynb` in Jupyter Notebook or compatible environment
